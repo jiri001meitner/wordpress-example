@@ -1,4 +1,4 @@
-# WordPress on OpenShift #
+# WordPress on OpenShift with czech language#
 
 WordPress is an open source, semantic, blogging and content management 
 platform written in PHP with a MySQL backend focusing on aesthetics, web 
@@ -83,7 +83,7 @@ documentation directly.
 
 Create a php-5.4 application (you can call your application whatever you want)
 
-    rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/openshift/wordpress-example
+    rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/jiri001meitner/wordpress-example
 
 That's it, you can now checkout your application at:
 
