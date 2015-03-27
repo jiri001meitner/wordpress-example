@@ -1,5 +1,25 @@
 # WordPress on OpenShift with czech language#
 
+[Buy me a coffee](http://l.meitner.cz/paypal-edithosts)[![Buy me a coffee](https://farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
+
+Potřebujete-li češtinu ve wordpressu, který instalujete přes openshift od Red Hatu, tak tady jí máte.
+Instalujte při vytváření aplikací buď přes příkazový řádek, nebo přes web openshift.
+
+[WordPress 4 Quickstart](https://openshift.redhat.com/app/console/application_type/quickstart!1)[[![WordPress 4 Quickstart](https://farm8.staticflickr.com/7624/16916341046_a53a363c7d_b.jpg)](https://openshift.redhat.com/app/console/application_type/quickstart!1)
+
+Instalace přes příkazový řádek, pokud máte nainstalovaného klienta rhc.
+
+## Manual Installation ##
+
+Create a php-5.4 application (you can call your application whatever you want)
+
+    rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/jiri001meitner/wordpress-example
+
+That's it, you can now checkout your application at:
+
+    https://wordpress-$yournamespace.rhcloud.com
+
+---
 WordPress is an open source, semantic, blogging and content management 
 platform written in PHP with a MySQL backend focusing on aesthetics, web 
 standards, and usability.
