@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: iRibbon\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-15 12:44:38 UTC\n"
-"PO-Revision-Date: 2015-03-29 04:16+0100\n"
+"PO-Revision-Date: 2015-03-29 17:11+0100\n"
 "Last-Translator: Jiří Meitner <jiri@meitner.cz>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,8 @@ msgstr "Oops! Stránka nebyla nalezena."
 msgid ""
 "It looks like nothing was found at this location. Maybe try searching for it?"
 msgstr ""
-"It looks like nothing was found at this location. Maybe try searching for it?"
+"Vypadá to, že nic nebylo nalezeno v tomto umístění. Můžeme zkusit to "
+"vyhledat?"
 
 #: ../../archive.php
 msgid "Category Archives: %s"
@@ -55,8 +56,8 @@ msgstr "Archivy"
 #: ../../comments.php
 msgid "One Response"
 msgid_plural "%1$s Responses"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Jedna odpověď"
+msgstr[1] "Odpovědi"
 
 #: ../../comments.php
 msgid "Comment navigation"
@@ -84,7 +85,7 @@ msgstr "Přihlášení"
 
 #: ../../content.php
 msgid "Permalink to %s"
-msgstr "Permalink to %s"
+msgstr "Trvalý odkaz k %s"
 
 #: ../../content.php
 msgid "Continue reading"
@@ -92,21 +93,21 @@ msgstr "Pokračovat ve čtení"
 
 #: ../../content.php ../../image.php
 msgid "Pages:"
-msgstr "Pages:"
+msgstr "Stránky:"
 
 #: ../../content.php ../../image.php
 msgid "Edit"
-msgstr "Edit"
+msgstr "Editace"
 
 #: ../../footer.php ../../sidebar-left.php ../../sidebar-right.php
 #: ../../sidebar.php
 msgid "Pages"
-msgstr "Pages"
+msgstr "Stránky"
 
 #: ../../footer.php ../../sidebar-left.php ../../sidebar-right.php
 #: ../../sidebar.php
 msgid "Categories"
-msgstr "Categories"
+msgstr "Kategorie"
 
 #: ../../footer.php ../../sidebar-left.php ../../sidebar-right.php
 #: ../../sidebar.php
@@ -117,8 +118,7 @@ msgstr "WordPress"
 #: ../../sidebar.php
 msgid ""
 "Powered by WordPress, state-of-the-art semantic personal publishing platform."
-msgstr ""
-"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Poháněno WordPressem, sémanticou publikační platformou."
 
 #: ../../functions.php
 msgid "Pingback:"
@@ -126,15 +126,15 @@ msgstr "Pingback:"
 
 #: ../../functions.php
 msgid "(Edit)"
-msgstr "(Edit)"
+msgstr "(Editace)"
 
 #: ../../functions.php
 msgid "says:"
-msgstr "says:"
+msgstr "říká:"
 
 #: ../../functions.php
 msgid "Your comment is awaiting moderation."
-msgstr "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
 
 #: ../../functions.php
 msgid "%1$s at %2$s"
@@ -142,100 +142,98 @@ msgstr "%1$s at %2$s"
 
 #: ../../functions.php
 msgid "iRibbon, an elegant, responsive WordPress theme"
-msgstr "iRibbon, an elegant, responsive WordPress theme"
+msgstr "iRibbon, elegantní responsivní WordPress téma"
 
 #: ../../image.php
 msgid "Published"
-msgstr "Published"
+msgstr "Publikováno"
 
 #: ../../image.php
 msgid "size"
-msgstr "size"
+msgstr "velikost"
 
 #: ../../image.php
 msgid "in"
-msgstr "in"
+msgstr "v"
 
 #: ../../image.php
 msgid "Previous"
-msgstr "Previous"
+msgstr "Předchozí"
 
 #: ../../image.php
 msgid "Next"
-msgstr "Next"
+msgstr "Následující"
 
 #: ../../image.php
 msgid "Post a comment"
-msgstr "Post a comment"
+msgstr "Odeslat komentář"
 
 #: ../../image.php
 msgid "or leave a trackback"
-msgstr "or leave a trackback"
+msgstr "nebo zanechte zpětný odkaz"
 
 #: ../../image.php
 msgid "Trackback URL"
-msgstr "Trackback URL"
+msgstr "URL zpětného odkazu"
 
 #: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
-msgstr "Comments are closed, but you can leave a trackback: "
+msgstr "Komentáře jsou uzavřené, ale můžete zanechat zpětný odkaz."
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"
-msgstr "Trackbacks are closed, but you can %s"
+msgstr "Zpětné odkazy jsou uzavřené, ale můžete %s"
 
 #: ../../image.php
 msgid "post a comment"
-msgstr "post a comment"
+msgstr "zanechat komentář"
 
 #: ../../image.php
 msgid "Both comments and trackbacks are currently closed."
-msgstr "Both comments and trackbacks are currently closed."
+msgstr "Komentáře i zpětné odkazy nejsou momentálně povolené."
 
 #: ../../no-results.php
 msgid "Nothing Found"
-msgstr "Nothing Found"
+msgstr "Nic nebylo nalezeno"
 
 #: ../../no-results.php
 msgid "Ready to publish your first post?"
-msgstr "Ready to publish your first post?"
+msgstr "Připraveni k publikování svého prvního příspěvku?"
 
 #: ../../no-results.php
 msgid "Get started here"
-msgstr "Get started here"
+msgstr "Začněte zde"
 
 #: ../../no-results.php
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
-"Sorry, but nothing matched your search terms. Please try again with some "
-"different keywords."
+"Promiňte, nic neodpovídá vyhledávanému termínu. Prosím, zkuste při hledávní "
+"použít jiné klíčové slovo."
 
 #: ../../no-results.php
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
-msgstr ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
-"searching can help."
+msgstr "Zdá se, že nemůžeme nalézt co hledáte. Možná vám pomůže vyhledávání."
 
 #: ../../search.php
 msgid "Search Results for: %s"
-msgstr "Search Results for: %s"
+msgstr "Vyhledávací výsledky pro: %s"
 
 #: ../../searchform.php
 msgid "Search &hellip;"
-msgstr "Search &hellip;"
+msgstr "Vyhledávání &hellip;"
 
 #: ../../sidebar-left.php ../../sidebar-right.php ../../sidebar.php
 msgid "Subscribe"
-msgstr "Subscribe"
+msgstr "Odběr"
 
 #: ../../sidebar-left.php ../../sidebar-right.php ../../sidebar.php
 msgid "Entries (RSS)"
-msgstr "Entries (RSS)"
+msgstr "Příspěvky (RSS)"
 
 #: ../../sidebar-left.php ../../sidebar-right.php ../../sidebar.php
 msgid "Comments (RSS)"
-msgstr "Comments (RSS)"
+msgstr "Komentáře (RSS)"
