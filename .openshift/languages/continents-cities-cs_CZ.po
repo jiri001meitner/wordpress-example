@@ -2,13 +2,17 @@
 # This file is distributed under the same license as the Continents & Cities package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2011-07-18 14:27:03+0000\n"
+"PO-Revision-Date: 2015-03-29 00:59+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: GlotPress/1.0-alpha-1000\n"
+"X-Generator: Poedit 1.5.4\n"
 "Project-Id-Version: Continents & Cities\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Jiří Meitner <jiri@meitner.cz>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
 
 #: wp-admin/includes/continents-cities.php:135
 msgid "Vincennes"

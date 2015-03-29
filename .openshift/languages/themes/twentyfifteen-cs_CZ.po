@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Twenty Fifteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-03-28 13:57+0100\n"
+"PO-Revision-Date: 2015-03-29 00:59+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,7 +12,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "Last-Translator: Jiří Meitner <jiri@meitner.cz>\n"
 "Language-Team: \n"
-"Language: cs\n"
+"Language: cs_CZ\n"
 
 #: single.php:37
 msgid "Previous post:"
@@ -262,13 +262,13 @@ msgstr "Menu pro sociální sítě"
 
 #: footer.php:25
 msgid "Proudly powered by %s"
-msgstr "Používáme %s (v češtině)."
+msgstr "Kvalitní %s webové stránky v cloudu"
 
 #. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.0)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: footer.php:25
 msgid "https://wordpress.org/"
-msgstr "http://webarnae.u"
+msgstr "http://webarna.eu"
 
 #: content-none.php:31
 msgid ""

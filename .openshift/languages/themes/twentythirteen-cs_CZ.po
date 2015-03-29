@@ -2,13 +2,17 @@
 # This file is distributed under the same license as the Twenty Thirteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-01-16 10:35:27+0000\n"
+"PO-Revision-Date: 2015-03-29 00:58+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: GlotPress/1.0-alpha-1000\n"
+"X-Generator: Poedit 1.5.4\n"
 "Project-Id-Version: Twenty Thirteen\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Jiří Meitner <jiri@meitner.cz>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
 
 #. translators: %s: Name of current post
 #: content-aside.php:16 content-audio.php:27 content-chat.php:26
@@ -23,12 +27,26 @@ msgid "Not Found"
 msgstr "Nenalezeno"
 
 #. Description of the plugin/theme
-msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
-msgstr "Twenty Thirteen (2013) je výchozí šablona pro WordPress, která je určena zejména pro příznivce klasického blogování. Podporuje dostupné formáty příspěvků a pro každý z nich používá trochu odlišné zobrazení. Zaměřuje se na drobné grafické detaily, kontrastní barevné schéma a obsahuje příjemné fonty i speciální ikony. Unikátní vzhled je sladěn i s nabídkou výchozích obrázků pro záhlaví. Samozřejmostí je v dnešní době využití flexibilního designu, kdy dochází k automatickému přizpůsobování šablony podle velikosti použitého zařízení."
+msgid ""
+"The 2013 theme for WordPress takes us back to the blog, featuring a full "
+"range of post formats, each displayed beautifully in their own unique way. "
+"Design details abound, starting with a vibrant color scheme and matching "
+"header images, beautiful typography and icons, and a flexible layout that "
+"looks great on any device, big or small."
+msgstr ""
+"Twenty Thirteen (2013) je výchozí šablona pro WordPress, která je určena "
+"zejména pro příznivce klasického blogování. Podporuje dostupné formáty "
+"příspěvků a pro každý z nich používá trochu odlišné zobrazení. Zaměřuje se "
+"na drobné grafické detaily, kontrastní barevné schéma a obsahuje příjemné "
+"fonty i speciální ikony. Unikátní vzhled je sladěn i s nabídkou výchozích "
+"obrázků pro záhlaví. Samozřejmostí je v dnešní době využití flexibilního "
+"designu, kdy dochází k automatickému přizpůsobování šablony podle velikosti "
+"použitého zařízení."
 
 #: functions.php:233
 msgid "Appears in the footer section of the site."
-msgstr "Hlavní oblast pro umístění widgetů, které se budou zobrazovat v zápatí webu."
+msgstr ""
+"Hlavní oblast pro umístění widgetů, které se budou zobrazovat v zápatí webu."
 
 #. Theme URI of the plugin/theme
 msgid "http://wordpress.org/themes/twentythirteen"
@@ -48,15 +66,22 @@ msgstr "Postranní panel"
 
 #: functions.php:243
 msgid "Appears on posts and pages in the sidebar."
-msgstr "Vedlejší oblast pro umístění widgetů, které se budou zobrazovat v pravém postranním panelu."
+msgstr ""
+"Vedlejší oblast pro umístění widgetů, které se budou zobrazovat v pravém "
+"postranním panelu."
 
 #: image.php:39
 msgid "Full resolution"
 msgstr "Původní rozměry"
 
 #: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
-msgid "Twenty Thirteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
-msgstr "Šablona Twenty Thirteen vyžaduje alespoň WordPress 3.6, zatímco aktuálně používáte starší verzi %s. Proveďte prosím nejdříve aktualizaci a potom to můžete zkusit znovu."
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Šablona Twenty Thirteen vyžaduje alespoň WordPress 3.6, zatímco aktuálně "
+"používáte starší verzi %s. Proveďte prosím nejdříve aktualizaci a potom to "
+"můžete zkusit znovu."
 
 #: 404.php:21
 msgid "This is somewhat embarrassing, isn&rsquo;t it?"
@@ -64,7 +89,9 @@ msgstr "Omlouváme se, ale došlo k poněkud nepříjemné situaci."
 
 #: 404.php:22
 msgid "It looks like nothing was found at this location. Maybe try a search?"
-msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
+msgstr ""
+"Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. "
+"Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
 
 #: archive.php:29
 msgid "Daily Archives: %s"
@@ -170,22 +197,33 @@ msgid "Nothing Found"
 msgstr "Nenalezeno"
 
 #: content-none.php:18
-msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
-msgstr "Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít "
+"rovnou zde</a>."
 
 #: content-none.php:22
-msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
-msgstr "Omlouváme se, ale hledaný výraz nebyl na webu nalezen. Zkuste to prosím znovu s nějakým jiným klíčovým slovem."
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Omlouváme se, ale hledaný výraz nebyl na webu nalezen. Zkuste to prosím "
+"znovu s nějakým jiným klíčovým slovem."
 
 #: content-none.php:27
-msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
-msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání "
+"pomocí zadaného klíčového slova."
 
 #. #-#-#-#-#  twentythirteen.pot (Twenty Thirteen 1.4)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: footer.php:19
 msgid "http://wordpress.org/"
-msgstr "http://cs.wordpress.org/"
+msgstr "http://webarna.eu/"
 
 #: footer.php:19
 msgid "Semantic Personal Publishing Platform"
@@ -271,8 +309,14 @@ msgid "Skip to content"
 msgstr "Přejít k obsahu webu"
 
 #: image.php:22
-msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
-msgstr "<span class=\"attachment-meta\">Publikováno <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> | Přiřazeno: <a href=\"%3$s\" title=\"Zpět na %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+"<span class=\"attachment-meta\">Publikováno <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> | Přiřazeno: <a href=\"%3$s\" title=\"Zpět na "
+"%4$s\" rel=\"gallery\">%5$s</a></span>"
 
 #: image.php:51
 msgid "<span class=\"meta-nav\">&larr;</span> Previous"
