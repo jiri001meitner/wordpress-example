@@ -1,6 +1,6 @@
-# WordPress on OpenShift with czech language#
+# WordPress v cloudu OpenShift v českém jazyce
 
-[Buy me a coffee](http://l.meitner.cz/paypal-edithosts)[![Buy me a coffee](https://farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
+[kupte mi kávu](http://l.meitner.cz/paypal-edithosts)[![kupte mi kávu](https://farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
 
 Potřebujete-li češtinu ve wordpressu, který instalujete přes openshift od Red Hatu, tak tady jí máte.
 Instalujte při vytváření aplikací buď přes příkazový řádek, nebo přes web openshift.
