@@ -9,13 +9,17 @@ Instalujte při vytváření aplikací buď přes příkazový řádek, nebo př
 
 Instalace přes příkazový řádek, pokud máte nainstalovaného klienta rhc.
 
-## Manual Installation ##
+## Ruční instalace prostřednictvím rhc a příkazového řádku ##
 
-Create a php-5.4 application (you can call your application whatever you want)
+Tento kód přidejte z konzole:
 
     rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/jiri001meitner/wordpress-example
+    
+Chcete-li používat phpmyadmin, přidejte ještě phpmyadmin:
 
-That's it, you can now checkout your application at:
+    rhc add-cartridge phpmyadmin-4 -a wordpress
+
+To je vše, vaše aplikace bude dostupná zde:
 
     https://wordpress-$yournamespace.rhcloud.com
 
